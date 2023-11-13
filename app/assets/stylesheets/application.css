@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+#title {
+}
+
+#button {
+  background-color: rgb(101, 101, 255);
+}
+
+.answer, .question {
+  border-left: 6px;
+  border-color: gray;
+}
+
+.answer {
+  background-color: rgb(233, 233, 151);
+}
+
+.p-answer, .p-question {
+  font-style: italic;
+}
+
+#link {
+  text-decoration: none;
+}
